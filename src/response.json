@@ -1,0 +1,20 @@
+[
+  {
+    "plan": "FREE",
+    "price": "$0",
+    "f1": "Single User",
+    "f2": "5GB Storage"
+  },
+  {
+    "plan": "PLUS",
+    "price": "$9",
+    "f1": "5 Users",
+    "f2": "50GB Storage"
+  },
+  {
+    "plan": "PRO",
+    "price": "$49",
+    "f1": "Unlimited Users",
+    "f2": "150GB Storage"
+  }
+]
